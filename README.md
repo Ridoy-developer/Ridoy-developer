@@ -1,24 +1,24 @@
-# Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I am Nur Hossain Ridoy <br/>
+# Hi, I'm Ridoy 👋🏼
 
 A passionate **Front-end Developer** from Bangladesh <br/>
+I'm a full-stack developer experienced in Javascript and java based programming with a background in academia. I am passionate about using my technical skills along with my research in both independent and collaborative settings to build products that help improve people’s lives. 
 
-## I code with
+### Technologies & Tools:
+![](https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=yellow&color=gray)
+![](https://img.shields.io/badge/Ruby-skill?style=for-the-badge&logo=ruby&logoColor=red&color=gray)
+![](https://img.shields.io/badge/React-skill?style=for-the-badge&logo=react&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/Rails-skill?style=for-the-badge&logo=ruby-on-rails&logoColor=red&color=gray)
+![](https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=orange&color=gray)
+![](https://img.shields.io/badge/CSS-skill?style=for-the-badge&logo=css3&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/PostgreSQL-skill?style=for-the-badge&logo=postgresql&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=git&logoColor=red&color=gray)
+![](https://img.shields.io/badge/Bootstrap-skill?style=for-the-badge&logo=bootstrap&logoColor=563d7c&color=gray)
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### How to reach me:
+📫 [LinkedIn](https://www.linkedin.com/in/bahay-gulle-bilgi/), connect with me </br> 
+👩🏼‍💻 [Portfolio](https://www.bahaygb.com/), visit my personal site </br>
+✍🏻 [Medium](https://medium.com/@bahayg), read my blog posts </br>
 
-❓ Ask me about Javascript<br/>
 
-🖥️ Most used line of code `console.log('Hello World')`
-
-❤️ I enjoy programming and sharing knowledge <br/>
-
-[Download MY CV]() <br/>
-
-### How to reach me
-
-📨 ridoydeveloper@gmail.com
-
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Ridoy-developer}.id&left_color=green&right_color=red)
-
+<!--
+**Ridoy-Developer/Ridoy-Developer* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
