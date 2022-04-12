@@ -1,6 +1,6 @@
 # Hi, I'm Ridoy 👋🏼
 
-I'm a full-stack developer experienced in Javascript and java based programming with a background in academia. I am passionate about using my technical skills along with my research in both independent and collaborative settings to build products that help improve people’s lives. 
+I'm a full-stack developer experienced in Javascript and java based programming with a background in academia. I am passionate about using my technical skills along with my research in both independent and collaborative settings to build products that help to improve people’s lives. 
 
 ### Technologies & Tools:
 ![](https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=yellow&color=gray)
