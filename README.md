@@ -1,6 +1,5 @@
 # Hi, I'm Ridoy 👋🏼
 
-A passionate **Front-end Developer** from Bangladesh <br/>
 I'm a full-stack developer experienced in Javascript and java based programming with a background in academia. I am passionate about using my technical skills along with my research in both independent and collaborative settings to build products that help improve people’s lives. 
 
 ### Technologies & Tools:
