@@ -4,11 +4,10 @@ I'm a full-stack developer experienced in Javascript and java based programming 
 
 ### Technologies & Tools:
 ![](https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=yellow&color=gray)
-![](https://img.shields.io/badge/Java-skill?style=for-the-badge&logo=ruby&logoColor=red&color=gray)
 ![](https://img.shields.io/badge/React-skill?style=for-the-badge&logo=react&logoColor=blue&color=gray)
 ![](https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=orange&color=gray)
 ![](https://img.shields.io/badge/CSS-skill?style=for-the-badge&logo=css3&logoColor=blue&color=gray)
-![](https://img.shields.io/badge/MongoDb-skill?style=for-the-badge&logo=postgresql&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/MongoDB-skill?style=for-the-badge&logo=postgresql&logoColor=blue&color=gray)
 ![](https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=git&logoColor=red&color=gray)
 ![](https://img.shields.io/badge/Bootstrap-skill?style=for-the-badge&logo=bootstrap&logoColor=563d7c&color=gray)
 
