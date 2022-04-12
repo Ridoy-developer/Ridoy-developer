@@ -12,9 +12,9 @@ I'm a full-stack developer experienced in Javascript and java based programming 
 ![](https://img.shields.io/badge/Bootstrap-skill?style=for-the-badge&logo=bootstrap&logoColor=563d7c&color=gray)
 
 ### How to reach me:
-📫 [LinkedIn](https://www.linkedin.com/in/bahay-gulle-bilgi/), connect with me </br> 
-👩🏼‍💻 [Portfolio](https://www.bahaygb.com/), visit my personal site </br>
-✍🏻 [Medium](https://medium.com/@bahayg), read my blog posts </br>
+📫 [LinkedIn](), connect with me </br> 
+👩🏼‍💻 [Portfolio](https://ridoydev.netlify.app/), visit my personal site </br>
+✍🏻 [Medium](), read my blog posts </br>
 
 
 <!--
